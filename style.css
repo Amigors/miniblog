@@ -1,0 +1,38 @@
+html,
+.body{
+    background-color: #968a8a;
+}
+.header{
+    background-color: #968a8a;
+    color: blue;
+}
+.menu li{
+    padding-left: 200px;
+    padding-top: 50px;
+    display: inline-block
+}
+h1{
+    text-align: center;
+}
+.menu a{
+    font-size: 20px;
+    line-height: 30px;
+    border: 1px solid transparent;
+}
+.menu a:hover{
+    border-color: #ffc222;
+}
+.aboutMe{
+    color: #c70a0a;
+    font-size: 100px;
+}
+.wtf{
+    margin-left: 750px;
+}
+.textProj{
+    text-align: center;
+}
+.itsMe{
+    margin-left: 1000px;
+    width:500px;
+}
